@@ -1,0 +1,1 @@
+protoc --java_out=./protoOut ./proto/msg.proto
